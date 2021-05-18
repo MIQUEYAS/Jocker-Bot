@@ -32,7 +32,7 @@
 
 > termux-setup-storage     (você precisa dar acesso aos seus arquivos)
 > pkg install git     (necessário para baixar os arquivos do bot)
-> git clone https://github.com/MIQUEYAS/Jocker-Bot     (baixa os arquivos do bot)
+> git clone hthttp://github.com/MIQUEYAS/jocker-boot.git     (baixa os arquivos do bot)
 > cd Jocker-Bot    (abre a pasta do bot)
 > bash install.sh     (para instalar todas as dependências)
 
